@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="Lorem ipsum dolor sit amet, veri tempor ad sea, quo harum scripserit ex, vis ea eros harum dissentiet. Est ne ornatus dignissim forensibus, unum autem soleat ex his. Quo omnis justo ei. At usu fugit nihil quodsi. Ad nec possit quaestio disputationi.\n"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/textView1"
+        android:layout_weight="1" />
+    <JustifiedXamarin.JustifiedTextView
+        android:text="Lorem ipsum dolor sit amet, veri tempor ad sea, quo harum scripserit ex, vis ea eros harum dissentiet. Est ne ornatus dignissim forensibus, unum autem soleat ex his. Quo omnis justo ei. At usu fugit nihil quodsi. Ad nec possit quaestio disputationi.\n"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/textView2"
+        android:layout_weight="1" />
+</LinearLayout>
